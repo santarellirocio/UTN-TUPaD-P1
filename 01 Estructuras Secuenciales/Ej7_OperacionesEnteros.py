@@ -1,0 +1,8 @@
+num1 = int(input("Ingrese un número entero distinto de 0: "))
+num2 = int(input("Ingrese otro número entero distinto de 0: "))
+print ("La suma entre ambos números es", num1 + num2)
+print ("La resta del primer número con el segundo es", num1 - num2)
+print ("La resta del segundo número con el primero es", num2 - num1)
+print ("La multiplicación entre ambos números es", num1 * num2)
+print ("El cociente de dividir el primer número con el segundo es", num1 / num2)
+print ("El cociente de dividir el segundo número con el primero es", num2 / num1)
