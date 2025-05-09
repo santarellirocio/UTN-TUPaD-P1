@@ -5,7 +5,7 @@ impares = 0      #Variable que cuenta la cantidad de impares, iniciada en 0.
 positivos = 0    #Variable que cuenta la cantidad de positivos, iniciada en 0.
 negativos = 0    #Variable que cuenta la cantidad de negativos, iniciada en 0.
 
-#Le pide al usuario ingresar 100 números enteros.
+#Se le pide al usuario ingresar 100 números enteros.
 while cont <= 100:
     numero = int (input (f"Ingrese el número entero {cont}: "))
     cont += 1
